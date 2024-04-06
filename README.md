@@ -21,8 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-&nbsp;
 
-___
+##
+<div align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/shielamae02/shielamae02/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/shielamae02/shielamae02/output/snake.svg" alt="Snake animation" />
