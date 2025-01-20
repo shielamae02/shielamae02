@@ -35,8 +35,3 @@
 ###
 
 
-##
-<div align="center" width="200%">
-    <img src="https://raw.githubusercontent.com/shielamae02/shielamae02/output/snake.svg" alt="Snake animation" />
-</div>
-
